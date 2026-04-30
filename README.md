@@ -19,6 +19,36 @@
 
 ---
 
+### 🌱 Code Roots (Mis raíces de código)
+
+Estos repos representan las bases con las que construí mi forma de programar: fundamentos de C, estructuras de datos, sistemas Linux, automatización, algoritmos y backend.
+
+- **holbertonschool-low_level_programming**  
+  Fundamentos sólidos de C: memoria, punteros, estructuras, listas enlazadas y complejidad base.
+
+- **holberton-system_engineering-devops**  
+  Linux, shell scripting, procesos, redes y automatización para trabajar con sistemas reales.
+
+- **holbertonschool-binary_trees**  
+  Estructuras de datos jerárquicas en C (árboles binarios), recorridos, inserción, búsqueda y operaciones clave.
+
+- **printf**  
+  Implementación propia de `printf` en C, enfocada en parsing, formato y trabajo colaborativo en equipo.
+
+- **RSA-Factoring-Challenge**  
+  Reto orientado a criptografía y matemáticas aplicadas: factorización y fundamentos del esquema RSA.
+
+- **Simple-Shell**  
+  Construcción de una shell tipo Unix desde cero: ejecución de comandos, procesos e interacción con el sistema operativo.
+
+- **SortingAlgorithms-BigOnotation**  
+  Algoritmos de ordenamiento clásicos y análisis de complejidad temporal/espacial (Big O notation).
+
+- **holbertonschool-higher_level_programming**  
+  Transición a alto nivel con Python: OOP, estructuras avanzadas, APIs y buenas prácticas de desarrollo.
+
+---
+
 ### 🔨 Languages and Tools
 
 <div align="left">
