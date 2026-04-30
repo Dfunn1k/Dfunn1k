@@ -35,14 +35,8 @@ Estos repos representan las bases con las que construí mi forma de programar: f
 - **[printf](https://github.com/Dfunn1k/printf)**  
   Implementación propia de `printf` en C, enfocada en parsing, formato y trabajo colaborativo en equipo.
 
-- **[RSA-Factoring-Challenge](https://github.com/Dfunn1k/RSA-Factoring-Challenge)**  
-  Reto orientado a criptografía y matemáticas aplicadas: factorización y fundamentos del esquema RSA.
-
 - **[Simple-Shell](https://github.com/Dfunn1k/Simple-Shell)**  
   Construcción de una shell tipo Unix desde cero: ejecución de comandos, procesos e interacción con el sistema operativo.
-
-- **[SortingAlgorithms-BigOnotation](https://github.com/Dfunn1k/SortingAlgorithms-BigOnotation)**  
-  Algoritmos de ordenamiento clásicos y análisis de complejidad temporal/espacial (Big O notation).
 
 - **[holbertonschool-higher_level_programming](https://github.com/Dfunn1k/holbertonschool-higher_level_programming)**  
   Transición a alto nivel con Python: OOP, estructuras avanzadas, APIs y buenas prácticas de desarrollo.
